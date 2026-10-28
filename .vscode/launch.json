@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GeradorDeOrcamentoApplication<gerador_de_orcamento>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.app.gerador_de_orcamento.GeradorDeOrcamentoApplication",
+            "projectName": "gerador_de_orcamento",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

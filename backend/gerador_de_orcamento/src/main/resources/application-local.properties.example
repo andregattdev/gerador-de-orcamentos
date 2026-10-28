@@ -1,0 +1,2 @@
+# Copie para application-local.properties e defina DB_PASSWORD
+spring.datasource.password=SUA_SENHA_AQUI
